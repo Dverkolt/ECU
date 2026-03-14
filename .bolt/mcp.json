@@ -14,6 +14,9 @@
     },
     "sentry": {
       "enabled": true
+    },
+    "notion": {
+      "enabled": true
     }
   }
 }
